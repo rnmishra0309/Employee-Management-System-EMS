@@ -1,0 +1,19 @@
+.heading {
+	margin-top:4rem;
+}
+
+.head-color {
+	background:#8E8D92;
+	border-radius:25px;
+}
+
+.heading-body {
+	height:4.5rem;
+	font-size:2rem;
+	font-weight:bold;
+}
+
+.button-modal {
+	font-size:1rem;
+	font-weight:bold;
+}
